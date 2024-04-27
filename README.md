@@ -77,3 +77,13 @@ with large datasets.
 ▪ Established effective data management practices, ensuring integrity and accuracy while handling extensive
 datasets. The automation yielded savings of up to INR 14 lakhs through the reduction of man-hours
 
+## EDUCATION
+
+# Bachelor Of Technology(Computer Science And Engineering)@ Guru Gobind Singh Indraprastha University, New Delhi, India (August 2013-May, 2017)
+Bachelor Of Technology(Computer Science And Engineering) New Delhi, India
+▪ Cleared the program with first Division(70.2 %)
+▪ 3rd position in Junkyard Competition
+▪ GATE qualified(Score:570)
+# Master Of Science(Artificial Intelligence and Data Science) @ Deggendorf Institute of Technology and University Of South Bohemia (October 2022-Ongoing)
+▪ Currently in Fourth Semester
+
