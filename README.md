@@ -1,7 +1,7 @@
 # Machine Learning and Data Engineer
 ## WORK EXPERIENCE
 
-# Systems Engineer trainee @ Infosys Pvt. Ltd. Mysore Karnataka (Nov 2017 – Mar 2018)
+### Systems Engineer trainee @ Infosys Pvt. Ltd. Mysore Karnataka (Nov 2017 – Mar 2018)
 (Java J2EE, Python, Hibernate, Power BI, Hadoop, Mongo DB )
 
 Completed an intensive 6-month training program encompassing a comprehensive curriculum in cutting-edge
@@ -24,7 +24,7 @@ software development
 control, and agile methodologies.
 ▪ Introduction to Hadoop, delving into big data processing and analytics..
 
-# Systems Engineer @ Infosys Pvt. Ltd. Pune, Maharashtra (April 2018 – Dec 2018)
+### Systems Engineer @ Infosys Pvt. Ltd. Pune, Maharashtra (April 2018 – Dec 2018)
 (Java , AngularJS, XML,JSON) 
 ▪ Automated fault detection, significantly reducing human intervention and operational costs. The application
 resulted in cost reduction of upto 30%
@@ -33,7 +33,7 @@ resulted in cost reduction of upto 30%
 ▪ Collaborated with cross-functional teams, incorporating feedback and improvements.
 ▪ Key contributor to ongoing application maintenance, providing timely updates and support.
 
-# Systems Engineer @ Infosys Pvt. Ltd.  Pune, Maharashtra (Dec 2018 – May 2019)
+### Systems Engineer @ Infosys Pvt. Ltd.  Pune, Maharashtra (Dec 2018 – May 2019)
 (Jenkins Integration, Unix Shell Scripting, Putty, C I/C D)
 
 ▪ Spearheaded the creation of a comprehensive Jenkins application designed to automate the compilation,
@@ -48,7 +48,7 @@ multiple developers daily. This ensured synchronization and alignment of code mo
 ▪ Implemented parallel programming techniques to significantly reduce application testing time. Achieved a
 remarkable decrease from over 24 hours to less than 5 hours, enhancing overall development efficiency.
 
-# Technology Analyst @ Infosys Pvt. Ltd. New Delhi, Delhi (May 2019 – April 2022) 
+### Technology Analyst @ Infosys Pvt. Ltd. New Delhi, Delhi (May 2019 – April 2022) 
 (Spring Boot, AJAX, JDBC, Java J2EE, Angular 6, Restful Web Services, Hibernate, Oracle DB, DB2)
 
 ▪ Led the development of the Electronic Cash Ledger, a versatile ledger cum wallet application. This innovative
@@ -64,7 +64,7 @@ the portal.
 ▪ Contributed to the development and maintenance efforts for the Compliance Information Portal, ensuring
 traders had access to the latest compliance-related information.
 
-# Technology Analyst @ Infosys Pvt. Ltd. New Delhi, Delhi (May 2019 – April 2022)
+### Technology Analyst @ Infosys Pvt. Ltd. New Delhi, Delhi (May 2019 – April 2022)
 (PowerBI)
 
 ▪ Conducted in-depth research on tax revenue, imports, and exports, analyzing complex datasets for insights and
