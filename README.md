@@ -79,11 +79,15 @@ datasets. The automation yielded savings of up to INR 14 lakhs through the reduc
 
 ## EDUCATION
 
-# Bachelor Of Technology(Computer Science And Engineering)@ Guru Gobind Singh Indraprastha University, New Delhi, India (August 2013-May, 2017)
+### Bachelor Of Technology(Computer Science And Engineering)@ Guru Gobind Singh Indraprastha University, New Delhi, India (August 2013-May, 2017)
 Bachelor Of Technology(Computer Science And Engineering) New Delhi, India
 ▪ Cleared the program with first Division(70.2 %)
 ▪ 3rd position in Junkyard Competition
 ▪ GATE qualified(Score:570)
-# Master Of Science(Artificial Intelligence and Data Science) @ Deggendorf Institute of Technology and University Of South Bohemia (October 2022-Ongoing)
+### Master Of Science(Artificial Intelligence and Data Science) @ Deggendorf Institute of Technology and University Of South Bohemia (October 2022-Ongoing)
 ▪ Currently in Fourth Semester
 
+## SKILLS
+Java J2EE/ R / Python / PL/SQL / Pytorch / OpenCV / Numpy / ggplot2 / plotly / Pandas / matplotlib / Scikit Learn /
+Tensorflow / GitHub / Git/ Powerpoint / MySQL / MongoDB / Data Studio / RMarkdown / Spring Boot/ Restful Web
+Services/ Angular 6/Hibernate/ Rest API/Oracle DB/DB2/English-C1/German-A1
