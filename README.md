@@ -10,6 +10,7 @@ skill set, allowing for a holistic understanding of modern software development 
 areas of focus include:
 ▪ Acquired proficiency in Java J2EE and Python, mastering essential concepts, syntax, and advanced features of
 both programming languages.
+
 ▪ Gained hands-on experience in Power BI, developing skills in data visualization, analytics, and reporting for
 effective decision-making.
 ▪ Received training in MongoDB, Hibernate and RDBMS, exploring the intricacies of database management and
