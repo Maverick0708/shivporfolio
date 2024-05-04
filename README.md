@@ -2,7 +2,7 @@
 ## WORK EXPERIENCE
 
 ### Systems Engineer trainee @ Infosys Pvt. Ltd. Mysore Karnataka (Nov 2017 – Mar 2018)
-(Java J2EE, Python, Hibernate, Power BI, Hadoop, Mongo DB )
+<h1>(Java J2EE, Python, Hibernate, Power BI, Hadoop, Mongo DB )</h1>
 
 Completed an intensive 6-month training program encompassing a comprehensive curriculum in cutting-edge
 technologies and software engineering principles. This extensive training program equipped me with a diverse
