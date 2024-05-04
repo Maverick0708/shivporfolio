@@ -41,7 +41,7 @@ deployment, and testing of code every night.
 ▪ Implemented a nightly testing workflow that ensured the timely execution of compilation tests and development
 checks. This process aimed to identify any potential issues arising from new code additions, preventing
 disruptions to existing functionality
-▪ Orchestrated the generation of detailed reports each morning, providing the development team with insights
+▪ Automated the generation of detailed reports each morning, providing the development team with insights
 into the testing outcomes. This reporting mechanism facilitated a swift response to any identified issues
 ▪ Managed the testing of a large and complex application, accommodating numerous changes introduced by
 multiple developers daily. This ensured synchronization and alignment of code modifications.
