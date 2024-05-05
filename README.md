@@ -1,6 +1,6 @@
 # Machine Learning and Data Engineer
 
-## MY Personal Projwcts
+## MY PROJECTS
 
 [Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data](https://github.com/Maverick0708/Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data)
 
