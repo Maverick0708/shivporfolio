@@ -3,8 +3,11 @@
 ## MY Personal Projwcts
 
 [Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data](https://github.com/Maverick0708/Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data)
+
 [DNADataVisualization](https://github.com/Maverick0708/DNADataVisualization)
+
 [MarkovModelTextGenerator](https://github.com/Maverick0708/MarkovModelTextGenerator)
+
 [Genetic-Analysis](https://github.com/Maverick0708/Genetic-Analysis)
 
 ## PROFESSIONAL WORK EXPERIENCE
