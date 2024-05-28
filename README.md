@@ -2,8 +2,6 @@
 
 ## MY PROJECTS
 
-[AutoEncoders]{https://github.com/Maverick0708/AutoEncoders}
-
 [AutoEncoders](https://github.com/Maverick0708/AutoEncoders)
 
 [Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data](https://github.com/Maverick0708/Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data)
