@@ -12,7 +12,7 @@
 
 [MarkovModelTextGenerator](https://github.com/Maverick0708/MarkovModelTextGenerator)
 
-[Genetic-Analysis](https://github.com/Maverick0708/Visualizing-RNA-Protein-Interactions)
+[Visualizing RNA-Protein Interactions](https://github.com/Maverick0708/Visualizing-RNA-Protein-Interactions)
 
 [Iris](https://github.com/Maverick0708/Iris)
 
