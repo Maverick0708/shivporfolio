@@ -2,6 +2,8 @@
 
 ## MY PROJECTS
 
+[GenerativeAITextGenerator](https://github.com/Maverick0708/GenerativeAITextGenerator)
+
 [AutoEncoders](https://github.com/Maverick0708/AutoEncoders)
 
 [Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data](https://github.com/Maverick0708/Analysis-of-the-US-weekly-Nationally-Notifiable-Disease-Surveillance-Data)
@@ -10,7 +12,7 @@
 
 [MarkovModelTextGenerator](https://github.com/Maverick0708/MarkovModelTextGenerator)
 
-[Genetic-Analysis](https://github.com/Maverick0708/Genetic-Analysis)
+[Genetic-Analysis](https://github.com/Maverick0708/Visualizing-RNA-Protein-Interactions)
 
 [Iris](https://github.com/Maverick0708/Iris)
 
