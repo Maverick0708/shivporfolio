@@ -118,7 +118,7 @@ with large datasets.
 ▪ Implemented a robust system for daily data updates and optimized data pipelines for efficiency.
 
 ▪ Established effective data management practices, ensuring integrity and accuracy while handling extensive
-datasets. The automation yielded savings of up to INR 14 lakhs through the reduction of man-hours
+datasets. The automation yielded financial savings through the reduction of man-hours
 
 ## EDUCATION
 
