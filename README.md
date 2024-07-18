@@ -2,6 +2,8 @@
 
 ## MY PROJECTS
 
+[Transformer Latent Space clustering and analysis](https://github.com/Maverick0708/Transformer-Latent-Space-clustering)
+
 [GenerativeAITextGenerator](https://github.com/Maverick0708/GenerativeAITextGenerator)
 
 [AutoEncoders](https://github.com/Maverick0708/AutoEncoders)
