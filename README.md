@@ -22,7 +22,7 @@
 
 ## PROFESSIONAL WORK EXPERIENCE
 
-Worked in the fields of full stack deveoplment, CI/CD and full stack Development. Technologies used were Java, RestAPI, PowerBI, various SQL databases
+Worked as a full stack Java developer. Worked in various technologies like  Java, SpringBoot, JavaScript, RestAPI, various SQL databases, , CI/CD, Angular, amongst many others
 
 
 
