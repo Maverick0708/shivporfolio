@@ -1,4 +1,4 @@
-# Machine Learning and Data Engineer
+# Artificial Intelligence,Data Science and Software Engineering specialist
 
 ## MY PROJECTS
 
