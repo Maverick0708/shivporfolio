@@ -2,7 +2,7 @@
 
 ## MY PROJECTS
 
-[EdgeDocs Copilot RAG System](https://github.com/Maverick0708/EdgeDocs-Copilot-RAG-system)
+<!--[EdgeDocs Copilot RAG System](https://github.com/Maverick0708/EdgeDocs-Copilot-RAG-system)-->
 
 [Transformer Latent Space clustering and analysis](https://github.com/Maverick0708/Transformer-Latent-Space-clustering)
 
